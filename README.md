@@ -9,14 +9,15 @@ folder in "C:\Users\YourUserName\Documents\Dolphin Emulator\Load\Textures". That
 Some textures have jagged edges due to not being redrawn, just upscaled.
 
 # Examples
+With HD
 ![With HD Textures](https://github.com/hollow-08/Super-Monkey-Ball-2-HD/blob/master/Examples/withhd1.png?raw=true)
-
+Without HD
 ![Without HD Textures](https://github.com/hollow-08/Super-Monkey-Ball-2-HD/blob/master/Examples/sd1.png?raw=true)
-
+With HD
 ![With HD Textures](https://github.com/hollow-08/Super-Monkey-Ball-2-HD/blob/master/Examples/withhd2.png?raw=true)
-
+Without Hd
 ![Without HD Textures](https://github.com/hollow-08/Super-Monkey-Ball-2-HD/blob/master/Examples/sd2.png?raw=true)
-
+With HD
 ![With HD Textures](https://github.com/hollow-08/Super-Monkey-Ball-2-HD/blob/master/Examples/withhd3.png?raw=true)
-
+Without HD
 ![Without HD Textures](https://github.com/hollow-08/Super-Monkey-Ball-2-HD/blob/master/Examples/sd3.png?raw=true)
